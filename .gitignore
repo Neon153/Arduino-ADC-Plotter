@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Arduino / Editor
+.vscode/
+.idea/
+*.elf
+*.hex
+
+# Messdaten-Exporte des Viewers
+ad7606_*.csv
