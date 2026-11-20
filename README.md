@@ -68,6 +68,7 @@ Unter Linux braucht der Benutzer Zugriff auf den seriellen Port:
 | [PC-Programm](docs/pc-programm.md) | Installation, Bedienung, Architektur, Erweiterungen |
 | [Leistung und Grenzen](docs/leistung-und-grenzen.md) | Abtastraten, Engpässe, Aliasing, Oversampling, Alternativen zum Uno |
 | [Fehlersuche](docs/fehlersuche.md) | Typische Fehlerbilder und ihre Ursachen |
+| [Entstehung (Prompts)](docs/prompts.md) | Die Prompts, mit denen das Projekt zusammen mit Claude entstanden ist, und was jeweils dabei herauskam |
 
 ## Projektstatus
 
